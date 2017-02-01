@@ -1,2 +1,2 @@
 # wp-mvc-10
-Wordpress Model View Controller
+Wordpress Model View Controller (Plugin Development)
